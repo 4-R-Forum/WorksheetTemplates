@@ -8,7 +8,7 @@
   c) click the 'Save Current Page as Template, link<br/>
   d) new Template will be created<br/>
 3. To insert a template into any workbook<br/>
-  a) Click the Page Templates ison in the Insert Ribbon<br/>
+  a) Click the Page Templates icon in the Insert Ribbon<br/>
   b) Templates sidebar opens at right<br/>
   c) Select the desired template from My Templaes in the sidebar<br/>
   
